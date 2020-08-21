@@ -52,6 +52,8 @@
         android:text="rusev@hon.co"
         android:textColor="@color/black"
         android:textSize="@dimen/text_size_14"
+        android:focusable="true"
+        android:clickable="true"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/txtEmailLabel" />
 
@@ -132,6 +134,8 @@
         android:text="09245656781"
         android:textColor="@color/black"
         android:textSize="@dimen/text_size_14"
+        android:focusable="true"
+        android:clickable="true"
         app:layout_constraintStart_toStartOf="@+id/guideline"
         app:layout_constraintTop_toBottomOf="@+id/txtMobileNumLabel" />
 
@@ -155,6 +159,8 @@
         android:layout_marginTop="@dimen/spacing_4"
         android:text="09332626718"
         android:textColor="@color/black"
+        android:focusable="true"
+        android:clickable="true"
         android:textSize="@dimen/text_size_14"
         app:layout_constraintStart_toStartOf="@+id/guideline"
         app:layout_constraintTop_toBottomOf="@+id/txtContactPersonNumLabel" />
