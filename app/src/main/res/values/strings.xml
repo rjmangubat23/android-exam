@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">android-exam</string>
+    <string name="label_name_identifier">%1$s %2$s</string>
+    <string name="label_age_identifier">%1$d years old</string>
+
+    <!--Failures-->
+    <string name="failure_network_connection">No Network Connection</string>
+    <string name="failure_server_error">Server Error</string>
+    <string name="failure_please_wait">Something went wrong, Please wait…</string>
+    <string name="failure_try_again">Something went wrong, Please try again</string>
+    <string name="failure_not_yet">Not yet available…</string>
+
 </resources>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- default text sizes -->
+    <dimen name="text_size_10">10sp</dimen>
+    <dimen name="text_size_11">11sp</dimen>
+    <dimen name="text_size_12">12sp</dimen>
+    <dimen name="text_size_13">13sp</dimen>
+    <dimen name="text_size_14">14sp</dimen>
+    <dimen name="text_size_15">15sp</dimen>
+    <dimen name="text_size_16">16sp</dimen>
+    <dimen name="text_size_17">17sp</dimen>
+    <dimen name="text_size_18">18sp</dimen>
+    <dimen name="text_size_20">20sp</dimen>
+    <dimen name="text_size_22">22sp</dimen>
+    <dimen name="text_size_24">24sp</dimen>
+    <dimen name="text_size_28">28sp</dimen>
+    <dimen name="text_size_30">30sp</dimen>
+    <dimen name="text_size_32">32sp</dimen>
+
+    <!--Spacing values-->
+    <dimen name="spacing_2">2dp</dimen>
+    <dimen name="spacing_4">4dp</dimen>
+    <dimen name="spacing_8">8dp</dimen>
+    <dimen name="spacing_10">10dp</dimen>
+    <dimen name="spacing_12">12dp</dimen>
+    <dimen name="spacing_16">16dp</dimen>
+    <dimen name="spacing_20">20dp</dimen>
+    <dimen name="spacing_24">24dp</dimen>
+    <dimen name="spacing_30">30dp</dimen>
+    <dimen name="spacing_32">32dp</dimen>
+    <dimen name="spacing_34">34dp</dimen>
+    <dimen name="spacing_36">36dp</dimen>
+    <dimen name="spacing_40">40dp</dimen>
+    <dimen name="spacing_42">42dp</dimen>
+    <dimen name="spacing_48">48dp</dimen>
+    <dimen name="spacing_56">56dp</dimen>
+    <dimen name="spacing_64">64dp</dimen>
+
+    <!-- Card view. -->
+    <dimen name="card_corner_radius">0dp</dimen>
+    <dimen name="card_elevation">1dp</dimen>
+
+    <!-- Progress view. -->
+    <dimen name="progress_view_height">10dp</dimen>
+
+    <!-- Separator line view. -->
+    <dimen name="separator_size">1dp</dimen>
+
+    <!--Login view-->
+    <dimen name="login_title">20sp</dimen>
+    <dimen name="login_title_top">28dp</dimen>
+    <dimen name="login_subtitle_top">6dp</dimen>
+    <dimen name="login_pass_label_top">35dp</dimen>
+    <dimen name="login_btn_top">40dp</dimen>
+    <dimen name="login_input_height">48dp</dimen>
+    <dimen name="login_mobile_btn_height">56dp</dimen>
+
+    <!--Profile view-->
+    <dimen name="profile_img_size">120dp</dimen>
+
+    <!--Home view-->
+    <dimen name="home_profile_size">32dp</dimen>
+    <dimen name="home_fab_elevation">10dp</dimen>
+    <dimen name="home_placeholder_calc_size">16dp</dimen>
+
+    <!--Loan view-->
+    <dimen name="loan_img_size">36dp</dimen>
+
+    <!--Calculator view-->
+    <dimen name="loan_duration_month_size">32dp</dimen>
+
+    <!--Apply Loans view-->
+    <dimen name="loan_amount_box_size">200dp</dimen>
+
+    <!--Co Maker view-->
+    <dimen name="comaker_number_size">40dp</dimen>
+
+</resources>
